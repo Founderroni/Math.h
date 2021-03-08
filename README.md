@@ -1,2 +1,2 @@
 # Math.h
-MCBE math stuffs for stuffs and stuff
+**MC math functions for everyone!**
